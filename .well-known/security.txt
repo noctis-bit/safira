@@ -1,0 +1,4 @@
+Contact: mailto:contato@safirasecure.com.br
+Preferred-Languages: pt-BR, en
+Canonical: https://www.safirasecure.com.br/.well-known/security.txt
+Expires: 2027-09-08T23:59:59Z
